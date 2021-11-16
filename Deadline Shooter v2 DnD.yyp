@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"igor_background","path":"sprites/igor_background/igor_background.yy",},"order":3,},
     {"id":{"name":"main_menu_pointer","path":"sprites/main_menu_pointer/main_menu_pointer.yy",},"order":1,},
+    {"id":{"name":"main_plane","path":"sprites/main_plane/main_plane.yy",},"order":11,},
+    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":9,},
     {"id":{"name":"main_menu_background","path":"sprites/main_menu_background/main_menu_background.yy",},"order":0,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":10,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":8,},
@@ -14,6 +16,8 @@
     {"id":{"name":"deadlineShooterTitle","path":"sprites/deadlineShooterTitle/deadlineShooterTitle.yy",},"order":4,},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":5,},
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
+    {"id":{"name":"obj_plane","path":"objects/obj_plane/obj_plane.yy",},"order":8,},
+    {"id":{"name":"Bullet","path":"sprites/Bullet/Bullet.yy",},"order":12,},
     {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":7,},
     {"id":{"name":"Wall","path":"objects/Wall/Wall.yy",},"order":1,},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},"order":5,},
